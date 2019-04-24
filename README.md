@@ -5,4 +5,4 @@ Download and Run the following command in your project directory
 
 > npm start
 
-> $ npm run build -> minify the app for production
+> npm run build -> minify the app for production
