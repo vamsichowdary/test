@@ -1,0 +1,7 @@
+.squerbox{
+    width: 60px;
+    height:60px;
+    border: 1px solid ;
+    margin-right: 1px;
+    cursor: pointer;
+}
